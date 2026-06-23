@@ -4,7 +4,7 @@
 
 ### M.Sc. Computer Science Student · Software Engineer · AI/CV Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=M.Sc.+Computer+Science+%40+University+of+Stuttgart;Systems+Engineer+experience+%40+TCS;Backend+%2B+AI+%2B+Computer+Vision+%2B+Testing;Open+to+Working+Student+%2F+HiWi+%2F+Software+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=M.Sc.+Computer+Science+%40+University+of+Stuttgart;Systems+Engineer+experience+%40+TCS;Backend+%2B+AI+%2B+Computer+Vision+%2B+Testing" alt="Typing SVG" />
 
 <br />
 
