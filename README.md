@@ -27,7 +27,6 @@ I have hands-on experience from **Tata Consultancy Services (TCS)**, where I wor
 - 🎓 M.Sc. Computer Science @ University of Stuttgart
 - 💼 Systems Engineer experience @ TCS
 - 🧠 Interested in AI, Computer Vision, Reinforcement Learning, Backend Engineering, QA Automation, and Knowledge Graphs
-- 🔍 Open to **Working Student**, **HiWi**, **Software Engineering**, **AI/ML**, **Computer Vision**, **Backend**, and **QA/Testing** roles
 - 🌱 Currently learning German and exploring life in Stuttgart
 - 📸 Outside code: photography, anime, Japanese car culture, travel, and music
 
