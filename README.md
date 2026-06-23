@@ -125,7 +125,7 @@ I have hands-on experience from **Tata Consultancy Services (TCS)**, where I wor
 
 - 🇮🇳 From Kerala, India
 - 🇩🇪 Currently studying in Stuttgart, Germany
-- 📷 Learning photography with a Sony A6000
+- 📷 Learning photography
 - 🚗 Interested in Japanese car culture
 - 🎧 Malayalam, Tamil, English, and country music listener
 - ✈️ Exploring places across Germany and Europe while studying
