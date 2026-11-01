@@ -39,14 +39,23 @@ Worked on enterprise application development and support, including:
 - Production support, issue investigation, testing, and coordination with stakeholders.
 - Windows Server, IIS, and related infrastructure tooling.
 
-## Technical background
+## Technical stack
 
-| Area | Technologies and methods |
+My professional experience is primarily in **enterprise .NET applications, Angular, SQL, and production support**. The AI, computer vision, and developer-tooling stack below reflects my research and independent project work.
+
+| Area | Technologies and experience |
 | --- | --- |
-| Languages | Python, C#, Java, TypeScript, JavaScript, SQL, PowerShell, Bash |
-| Backend & web | .NET, ASP.NET Core, FastAPI, REST APIs, Angular, React, Spring Boot |
-| AI & computer vision | OpenCV, deep learning, KLT tracking, optical flow, local LLMs, RAG, MCP |
-| Data & infrastructure | PostgreSQL, pgvector, SQL Server, Docker, Podman, Linux, Azure, Git |
+| **Programming languages** | Python, C#, Java, TypeScript, JavaScript, SQL, PowerShell, Bash |
+| **Backend & APIs** | .NET / ASP.NET Core, FastAPI, Java Spring Boot, REST APIs, Node.js |
+| **Frontend** | Angular, React, HTML5, CSS3, Vite |
+| **Databases & retrieval** | PostgreSQL, pgvector, SQL Server, MySQL, MongoDB, vector embeddings, semantic search |
+| **AI, ML & computer vision** | OpenCV, CNNs, KLT tracking, Lucas–Kanade optical flow, DeepLabv3+, MobileNet-SSD, object detection, semantic segmentation |
+| **LLM & agent tooling** | Ollama, local vision-language models, retrieval-augmented generation (RAG), Model Context Protocol (MCP) |
+| **Cloud, containers & developer tooling** | Azure, Docker, Podman, Git, GitHub Actions, Linux, Conda, VS Code |
+| **Enterprise systems & operations** | Windows Server, IIS, Active Directory, Group Policy, Windows Services, database maintenance, production troubleshooting |
+| **Testing & quality** | pytest, API testing, automated tests, debugging, incident investigation, application support |
+
+**Current academic focus:** Computer vision, reinforcement learning, knowledge graphs, and data-intensive systems.
 
 ## Education & publication
 
@@ -56,6 +65,35 @@ Interests include computer vision, machine learning, and software systems.
 **B.Tech Computer Science and Engineering** — Amrita Vishwa Vidyapeetham, India (2019–2023)
 
 **Publication:** *A Brief Study on Cloud Security*, IEEE International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2023. [DOI: 10.1109/ICCCNT56998.2023.10307757](https://doi.org/10.1109/ICCCNT56998.2023.10307757).
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KnightRider242&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=github_dark">
+    <img height="170" alt="GitHub contribution and repository statistics" src="https://github-readme-stats.vercel.app/api?username=KnightRider242&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightRider242&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark">
+    <img height="170" alt="Most-used languages across public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightRider242&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=default">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KnightRider242&amp;theme=github-dark-blue&amp;hide_border=true">
+    <img alt="GitHub contribution streaks and longest streak" src="https://streak-stats.demolab.com/?user=KnightRider242&amp;theme=default&amp;hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KnightRider242&amp;theme=github-dark&amp;hide_border=true">
+    <img width="98%" alt="GitHub contribution activity over time" src="https://github-readme-activity-graph.vercel.app/graph?username=KnightRider242&amp;theme=github-compact&amp;hide_border=true">
+  </picture>
+</p>
+
+<sub>These visuals update from public GitHub activity through third-party services. Repository language percentages reflect code distribution, not proficiency; third-party cards may occasionally be unavailable.</sub>
 
 ---
 
