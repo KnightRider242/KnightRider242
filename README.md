@@ -68,32 +68,45 @@ Interests include computer vision, machine learning, and software systems.
 
 ## GitHub activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KnightRider242&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=github_dark">
-    <img height="170" alt="GitHub contribution and repository statistics" src="https://github-readme-stats.vercel.app/api?username=KnightRider242&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightRider242&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark">
-    <img height="170" alt="Most-used languages across public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightRider242&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=default">
-  </picture>
-</p>
+These dashboards are generated from GitHub data and refreshed daily by a [GitHub Actions workflow](.github/workflows/profile-cards.yml). Their SVG files are stored in this repository, so they do not depend on third-party image servers when the profile loads.
+
+### Overview
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KnightRider242&amp;theme=github-dark-blue&amp;hide_border=true">
-    <img alt="GitHub contribution streaks and longest streak" src="https://streak-stats.demolab.com/?user=KnightRider242&amp;theme=default&amp;hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+    <img alt="GitHub overview showing contributions, repositories, stars, pull requests, and other activity" src="./assets/overview.light.svg" width="100%">
   </picture>
 </p>
+
+### Repository languages
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KnightRider242&amp;theme=github-dark&amp;hide_border=true">
-    <img width="98%" alt="GitHub contribution activity over time" src="https://github-readme-activity-graph.vercel.app/graph?username=KnightRider242&amp;theme=github-compact&amp;hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+    <img alt="Languages used across public GitHub repositories, shown as a treemap and ranking" src="./assets/languages.light.svg" width="100%">
   </picture>
 </p>
 
-<sub>These visuals update from public GitHub activity through third-party services. Repository language percentages reflect code distribution, not proficiency; third-party cards may occasionally be unavailable.</sub>
+### Contributions and streaks
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+    <img alt="Current and longest GitHub contribution streaks with contribution calendar" src="./assets/contributions.light.svg" width="100%">
+  </picture>
+</p>
+
+### Contribution activity over time
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg">
+    <img alt="Graph of GitHub contribution activity over time" src="./assets/momentum.light.svg" width="100%">
+  </picture>
+</p>
+
+<sub>Dashboard figures depend on the activity visible through GitHub. Repository languages reflect code composition, not individual proficiency. The charts are regenerated daily and can also be refreshed manually from the Actions tab.</sub>
 
 ---
 
