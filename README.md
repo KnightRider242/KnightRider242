@@ -1,150 +1,62 @@
-<div align="center">
+# Adharsh Siby Mathew
 
-# Hey, I'm Adharsh S Mathew 👋
+**Software Engineer | M.Sc. Computer Science, University of Stuttgart**
 
-### M.Sc. Computer Science Student · Software Engineer · AI/CV Enthusiast
+Stuttgart, Germany · [LinkedIn](https://www.linkedin.com/in/adharsh-siby-mathew-463439205/) · [Email](mailto:adharshmathew3@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=M.Sc.+Computer+Science+%40+University+of+Stuttgart;Systems+Engineer+experience+%40+TCS;Backend+%2B+AI+%2B+Computer+Vision+%2B+Testing" alt="Typing SVG" />
+I'm a computer science master's student with more than two years of software engineering experience at Tata Consultancy Services. My professional background is in backend development, enterprise applications, and production support. My current work focuses on applied AI, document retrieval, computer vision, and dependable software systems.
 
-<br />
+I enjoy working across the stack, from designing APIs and data models to testing the behavior of systems in real conditions.
 
-<a href="mailto:adharshmathew3@gmail.com"><img src="https://img.shields.io/badge/Email-adharshmathew3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/adharsh-siby-mathew-463439205/"><img src="https://img.shields.io/badge/LinkedIn-Adharsh%20Siby%20Mathew-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/KnightRider242"><img src="https://img.shields.io/badge/GitHub-KnightRider242-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+## Selected projects
 
-<img src="https://komarev.com/ghpvc/?username=KnightRider242&style=for-the-badge&color=blueviolet" alt="profile views" />
+**[RAG-AI](https://github.com/KnightRider242/rag-ai)** — A local-first document retrieval and question-answering backend. Implements document parsing, chunking, Ollama-based embeddings, PostgreSQL/pgvector search, and answers with source citations. Recent work adds PDF visual inspection, persisted local visual interpretations, and collection-scoped visual retrieval.  
+*Python · FastAPI · PostgreSQL · pgvector · Ollama*
 
-</div>
+**[CODEBOUND — Black Forest Hackathon 2026](https://github.com/KnightRider242/anythingmcp-BlackForestHackathon)** — Extends AnythingMCP with versioned JavaScript workflows executed in isolated sandboxes. The workflows combine ERP, supplier catalogue, and shipment data while enforcing connector permissions and execution limits.  
+*TypeScript/JavaScript · MCP · Docker · PostgreSQL*
 
----
+**[Confidence-Aware Driver Drowsiness Detection](https://github.com/KnightRider242/DDS-CV-MS)** — An ongoing computer-vision study of temporal facial motion. Uses region-specific KLT feature tracking, Lucas–Kanade optical flow, and forward–backward error to evaluate eye, mouth, and head movement under varying tracking quality.  
+*Python · OpenCV · Optical flow · Computer vision*
 
-## 🚀 About Me
+**[Drawing2CAD](https://github.com/KnightRider242/drawing2cad_BlackForest)** — A local-first prototype for translating technical drawing information into structured, reviewable CAD features. Separates AI interpretation from deterministic geometry generation and STEP validation through MCP tools.  
+*Python · FastAPI · React · MCP · CadQuery*
 
-I'm a Computer Science master's student at the **University of Stuttgart**, currently building my path in Germany through software engineering, AI, computer vision, and research-oriented projects.
+**[Linux AI Development Setup](https://github.com/KnightRider242/linux-ai-dev-setup)** — Cross-distribution setup scripts for Python/AI tooling, web development environments, and local database services, with dry-run and configurable installation options.  
+*Shell · Linux · Conda · Podman/Docker*
 
-I have hands-on experience from **Tata Consultancy Services (TCS)**, where I worked on backend development, .NET-based systems, Angular projects, SDLC workflows, customer support, and applying Generative AI in business applications.
+**[CodePulse API](https://github.com/KnightRider242/CodePulse.API)** — A .NET backend project for a blogging application, focused on REST API structure and application data management.  
+*C# · ASP.NET Core*
 
-- 🎓 M.Sc. Computer Science @ University of Stuttgart
-- 💼 Systems Engineer experience @ TCS
-- 🧠 Interested in AI, Computer Vision, Reinforcement Learning, Backend Engineering, QA Automation, and Knowledge Graphs
-- 🌱 Currently learning German and exploring life in Stuttgart
-- 📸 Outside code: photography, anime, Japanese car culture, travel, and music
+## Professional experience
 
----
+**Tata Consultancy Services — Systems Engineer**
 
-## 🧰 Tech Stack
+Worked on enterprise application development and support, including:
 
-<div align="center">
+- C#/.NET backend services, REST APIs, and Angular applications.
+- SQL database operations, troubleshooting, and application maintenance.
+- Production support, issue investigation, testing, and coordination with stakeholders.
+- Windows Server, IIS, and related infrastructure tooling.
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,js,ts,react,angular,nodejs,spring,html,css,mysql,git,github,linux,docker,azure,vscode&perline=10" />
+## Technical background
 
-</div>
+| Area | Technologies and methods |
+| --- | --- |
+| Languages | Python, C#, Java, TypeScript, JavaScript, SQL, PowerShell, Bash |
+| Backend & web | .NET, ASP.NET Core, FastAPI, REST APIs, Angular, React, Spring Boot |
+| AI & computer vision | OpenCV, deep learning, KLT tracking, optical flow, local LLMs, RAG, MCP |
+| Data & infrastructure | PostgreSQL, pgvector, SQL Server, Docker, Podman, Linux, Azure, Git |
 
-### Areas I enjoy working on
+## Education & publication
 
-| Area | Tools / Topics |
-|---|---|
-| Backend Engineering | .NET, C#, REST APIs, Java Spring Boot, MySQL |
-| Frontend | Angular, React, HTML, CSS, JavaScript, TypeScript |
-| AI / ML | Python, Deep Learning, Computer Vision, CNNs, Generative AI |
-| Current MSc Topics | Reinforcement Learning, Knowledge Graphs, Web Security, Big Data |
-| Dev / Tools | Git, GitHub, Linux, Docker basics, Azure basics, VS Code |
+**M.Sc. Computer Science** — University of Stuttgart, Germany (2026–present)  
+Interests include computer vision, machine learning, and software systems.
 
----
+**B.Tech Computer Science and Engineering** — Amrita Vishwa Vidyapeetham, India (2019–2023)
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KnightRider242&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightRider242&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KnightRider242&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KnightRider242&theme=tokyo-night&hide_border=true" />
-
-</div>
+**Publication:** *A Brief Study on Cloud Security*, IEEE International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2023. [DOI: 10.1109/ICCCNT56998.2023.10307757](https://doi.org/10.1109/ICCCNT56998.2023.10307757).
 
 ---
 
-## 🧩 Featured Repositories
-
-| Project | What it shows |
-|---|---|
-| [DDS-CV-MS](https://github.com/KnightRider242/DDS-CV-MS) | Deep learning / computer vision project work connected to assistive technology |
-| [DDS-CV](https://github.com/KnightRider242/DDS-CV) | Computer vision and deep learning exploration |
-| [CodePulse.API](https://github.com/KnightRider242/CodePulse.API) | Backend API development with .NET concepts |
-| [Machine-Learning--Models](https://github.com/KnightRider242/Machine-Learning--Models) | ML model experiments and practice |
-| [Stock-Market-Prediction](https://github.com/KnightRider242/Stock-Market-Prediction) | Data-driven prediction project |
-| [CN_socket_programming](https://github.com/KnightRider242/CN_socket_programming) | Computer networks and socket programming practice |
-| [cryptography](https://github.com/KnightRider242/cryptography) | Security and cryptography exercises |
-| [LeetCode](https://github.com/KnightRider242/LeetCode) | Problem solving and coding practice |
-
----
-
-## 🎓 Education Timeline
-
-```text
-2026 - Present   M.Sc. Computer Science
-                 University of Stuttgart, Germany
-
-2019 - 2023      B.Tech Computer Science and Engineering
-                 Amrita School of Computing, Amrita Vishwa Vidyapeetham
-                 CGPA: 8.67 / 10
-
-2019             CBSE Class XII / AISSCE
-                 Score: 87%
-
-2017             CBSE Class X / AISSE
-```
-
----
-
-## 🏗️ Projects & Research Highlights
-
-- **Deep Learning to Help Visually Impaired People**  
-  Built around computer vision and deep learning for assistive use cases.
-
-- **Drowsiness Detection System**  
-  CNN-based project using AlexNet concepts for driver safety.
-
-- **Restaurant Management System**  
-  Full-stack SDLC project using Java Spring Boot and Angular.
-
-- **Cloud Security Paper**  
-  Published: *A Brief Study on Cloud Security*, IEEE ICCCNT 2023.
-
----
-
-## 🌍 Beyond Code
-
-- 🇮🇳 From Kerala, India
-- 🇩🇪 Currently studying in Stuttgart, Germany
-- 📷 Learning photography
-- 🚗 Interested in Japanese car culture
-- 🎧 Malayalam, Tamil, English, and country music listener
-- ✈️ Exploring places across Germany and Europe while studying
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:adharshmathew3@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/adharsh-siby-mathew-463439205/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/KnightRider242"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Building, breaking, learning, and improving — one commit at a time." 🚀
-
-</div>
+Outside software, I spend time on photography, hardware projects, and travel.
