@@ -1,4 +1,4 @@
-name: Refresh profile dashboards
+name: Refresh contribution card
 
 on:
   push:
@@ -19,14 +19,14 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Generate theme-aware GitHub dashboards
+      - name: Update contribution card
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: KnightRider242
-          cards: overview,languages,contributions,momentum
+          cards: contributions
           output-dir: assets
           themes: light,dark
           palette: blue
           commit: true
-          commit-message: "chore(profile): refresh GitHub dashboards [skip ci]"
+          commit-message: "chore(profile): refresh contributions [skip ci]"
