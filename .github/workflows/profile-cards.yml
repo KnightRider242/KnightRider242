@@ -1,0 +1,32 @@
+name: Refresh profile dashboards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate theme-aware GitHub dashboards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: KnightRider242
+          cards: overview,languages,contributions,momentum
+          output-dir: assets
+          themes: light,dark
+          palette: blue
+          commit: true
+          commit-message: "chore(profile): refresh GitHub dashboards [skip ci]"
